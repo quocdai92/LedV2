@@ -1,0 +1,117 @@
+c:\users\oyasumi\documents\visual studio 2015\Projects\ManageImage\ManageImage\bin\Debug\ManageImage.exe.config
+c:\users\oyasumi\documents\visual studio 2015\Projects\ManageImage\ManageImage\obj\Debug\ManageImage.Form1.resources
+c:\users\oyasumi\documents\visual studio 2015\Projects\ManageImage\ManageImage\obj\Debug\ManageImage.Properties.Resources.resources
+c:\users\oyasumi\documents\visual studio 2015\Projects\ManageImage\ManageImage\obj\Debug\ManageImage.csproj.GenerateResource.Cache
+c:\users\oyasumi\documents\visual studio 2015\Projects\ManageImage\ManageImage\bin\Debug\ManageImage.exe
+c:\users\oyasumi\documents\visual studio 2015\Projects\ManageImage\ManageImage\bin\Debug\ManageImage.pdb
+c:\users\oyasumi\documents\visual studio 2015\Projects\ManageImage\ManageImage\obj\Debug\ManageImage.exe
+c:\users\oyasumi\documents\visual studio 2015\Projects\ManageImage\ManageImage\obj\Debug\ManageImage.pdb
+c:\users\oyasumi\documents\visual studio 2015\Projects\ManageImage\ManageImage\obj\Debug\ManageImage.csprojResolveAssemblyReference.cache
+D:\Dai\ManageImage\ManageImage\bin\Debug\ManageImage.exe.config
+D:\Dai\ManageImage\ManageImage\obj\Debug\ManageImage.exe
+D:\Dai\ManageImage\ManageImage\obj\Debug\ManageImage.pdb
+D:\Dai\ManageImage\ManageImage\bin\Debug\ManageImage.exe
+D:\Dai\ManageImage\ManageImage\bin\Debug\ManageImage.pdb
+D:\Dai\ManageImage\ManageImage\obj\Debug\ManageImage.csprojResolveAssemblyReference.cache
+D:\Dai\ManageImage\ManageImage\obj\Debug\ManageImage.Form1.resources
+D:\Dai\ManageImage\ManageImage\obj\Debug\ManageImage.Properties.Resources.resources
+D:\Dai\ManageImage\ManageImage\obj\Debug\ManageImage.csproj.GenerateResource.Cache
+C:\tiendatbk92\ManageImage\ManageImage\bin\Debug\ManageImage.exe.config
+C:\tiendatbk92\ManageImage\ManageImage\obj\Debug\ManageImage.exe
+C:\tiendatbk92\ManageImage\ManageImage\obj\Debug\ManageImage.pdb
+C:\tiendatbk92\ManageImage\ManageImage\bin\Debug\ManageImage.exe
+C:\tiendatbk92\ManageImage\ManageImage\bin\Debug\ManageImage.pdb
+C:\tiendatbk92\ManageImage\ManageImage\obj\Debug\ManageImage.Properties.Resources.resources
+C:\tiendatbk92\ManageImage\ManageImage\obj\Debug\ManageImage.csproj.GenerateResource.Cache
+C:\Users\IT\Desktop\ManageImage\ManageImage\bin\Debug\ManageImage.exe.config
+C:\Users\IT\Desktop\ManageImage\ManageImage\obj\Debug\ManageImage.exe
+C:\Users\IT\Desktop\ManageImage\ManageImage\obj\Debug\ManageImage.pdb
+C:\Users\IT\Desktop\ManageImage\ManageImage\bin\Debug\ManageImage.exe
+C:\Users\IT\Desktop\ManageImage\ManageImage\bin\Debug\ManageImage.pdb
+C:\Users\IT\Desktop\ManageImage\ManageImage\obj\Debug\ManageImage.csprojResolveAssemblyReference.cache
+C:\Users\IT\Desktop\ManageImage\ManageImage\obj\Debug\ManageImage.Form1.resources
+C:\Users\IT\Desktop\ManageImage\ManageImage\obj\Debug\ManageImage.Properties.Resources.resources
+C:\Users\IT\Desktop\ManageImage\ManageImage\obj\Debug\ManageImage.csproj.GenerateResource.Cache
+C:\Users\IT\Desktop\ManageImage\ManageImage\obj\Debug\ManageImage.Main.resources
+C:\tiendatbk92\ManageImage\ManageImage\obj\Debug\ManageImage.Main.resources
+C:\tiendatbk92\ManageImage\ManageImage\obj\Debug\ManageImage.FormEdit.resources
+D:\Dai\ManageImage_19_07_2016\ManageImage\ManageImage\bin\Debug\ManageImage.exe.config
+D:\Dai\ManageImage_19_07_2016\ManageImage\ManageImage\obj\Debug\ManageImage.exe
+D:\Dai\ManageImage_19_07_2016\ManageImage\ManageImage\obj\Debug\ManageImage.pdb
+D:\Dai\ManageImage_19_07_2016\ManageImage\ManageImage\bin\Debug\ManageImage.exe
+D:\Dai\ManageImage_19_07_2016\ManageImage\ManageImage\bin\Debug\ManageImage.pdb
+D:\Dai\ManageImage_19_07_2016\ManageImage\ManageImage\obj\Debug\ManageImage.csprojResolveAssemblyReference.cache
+D:\Dai\ManageImage_19_07_2016\ManageImage\ManageImage\obj\Debug\ManageImage.FormEdit.resources
+D:\Dai\ManageImage_19_07_2016\ManageImage\ManageImage\obj\Debug\ManageImage.Main.resources
+D:\Dai\ManageImage_19_07_2016\ManageImage\ManageImage\obj\Debug\ManageImage.Properties.Resources.resources
+D:\Dai\ManageImage_19_07_2016\ManageImage\ManageImage\obj\Debug\ManageImage.csproj.GenerateResource.Cache
+D:\Dai\LedProject2\ManageImage\ManageImage\bin\Debug\ManageImage.exe.config
+D:\Dai\LedProject2\ManageImage\ManageImage\obj\Debug\ManageImage.exe
+D:\Dai\LedProject2\ManageImage\ManageImage\obj\Debug\ManageImage.pdb
+D:\Dai\LedProject2\ManageImage\ManageImage\bin\Debug\ManageImage.exe
+D:\Dai\LedProject2\ManageImage\ManageImage\bin\Debug\ManageImage.pdb
+D:\Dai\LedProject2\ManageImage\ManageImage\obj\Debug\ManageImage.csprojResolveAssemblyReference.cache
+D:\Dai\LedProject2\ManageImage\ManageImage\obj\Debug\ManageImage.FormEdit.resources
+D:\Dai\LedProject2\ManageImage\ManageImage\obj\Debug\ManageImage.Main.resources
+D:\Dai\LedProject2\ManageImage\ManageImage\obj\Debug\ManageImage.Properties.Resources.resources
+D:\Dai\LedProject2\ManageImage\ManageImage\obj\Debug\ManageImage.csproj.GenerateResource.Cache
+C:\tiendatbk92\LedProject2\ManageImage\ManageImage\bin\Debug\ManageImage.exe.config
+C:\tiendatbk92\LedProject2\ManageImage\ManageImage\obj\Debug\ManageImage.exe
+C:\tiendatbk92\LedProject2\ManageImage\ManageImage\obj\Debug\ManageImage.pdb
+C:\tiendatbk92\LedProject2\ManageImage\ManageImage\bin\Debug\ManageImage.exe
+C:\tiendatbk92\LedProject2\ManageImage\ManageImage\bin\Debug\ManageImage.pdb
+C:\tiendatbk92\LedProject2\ManageImage\ManageImage\obj\Debug\ManageImage.csprojResolveAssemblyReference.cache
+C:\tiendatbk92\LedProject2\ManageImage\ManageImage\obj\Debug\ManageImage.FormEdit.resources
+C:\tiendatbk92\LedProject2\ManageImage\ManageImage\obj\Debug\ManageImage.Main.resources
+C:\tiendatbk92\LedProject2\ManageImage\ManageImage\obj\Debug\ManageImage.Properties.Resources.resources
+C:\tiendatbk92\LedProject2\ManageImage\ManageImage\obj\Debug\ManageImage.csproj.GenerateResource.Cache
+C:\Users\IT\Desktop\WorkLedProject\LedProject2\ManageImage\ManageImage\bin\Debug\ManageImage.exe.config
+C:\Users\IT\Desktop\WorkLedProject\LedProject2\ManageImage\ManageImage\bin\Debug\ManageImage.exe
+C:\Users\IT\Desktop\WorkLedProject\LedProject2\ManageImage\ManageImage\bin\Debug\ManageImage.pdb
+C:\Users\IT\Desktop\WorkLedProject\LedProject2\ManageImage\ManageImage\obj\Debug\ManageImage.FormEdit.resources
+C:\Users\IT\Desktop\WorkLedProject\LedProject2\ManageImage\ManageImage\obj\Debug\LedFullControl.frmMAP.resources
+C:\Users\IT\Desktop\WorkLedProject\LedProject2\ManageImage\ManageImage\obj\Debug\ManageImage.FrmProgressbar.resources
+C:\Users\IT\Desktop\WorkLedProject\LedProject2\ManageImage\ManageImage\obj\Debug\ManageImage.Main.resources
+C:\Users\IT\Desktop\WorkLedProject\LedProject2\ManageImage\ManageImage\obj\Debug\ManageImage.Properties.Resources.resources
+C:\Users\IT\Desktop\WorkLedProject\LedProject2\ManageImage\ManageImage\obj\Debug\ManageImage.csproj.GenerateResource.Cache
+C:\Users\IT\Desktop\WorkLedProject\LedProject2\ManageImage\ManageImage\obj\Debug\ManageImage.exe
+C:\Users\IT\Desktop\WorkLedProject\LedProject2\ManageImage\ManageImage\obj\Debug\ManageImage.pdb
+C:\Users\IT\Desktop\WorkLedProject\LedProject2\ManageImage\ManageImage\obj\Debug\ManageImage.csprojResolveAssemblyReference.cache
+D:\Work\PM LED\LED FULL CONTROL\ManageImage\ManageImage\bin\Debug\ManageImage.exe.config
+D:\Work\PM LED\LED FULL CONTROL\ManageImage\ManageImage\obj\Debug\ManageImage.exe
+D:\Work\PM LED\LED FULL CONTROL\ManageImage\ManageImage\obj\Debug\ManageImage.pdb
+D:\Work\PM LED\LED FULL CONTROL\ManageImage\ManageImage\bin\Debug\ManageImage.exe
+D:\Work\PM LED\LED FULL CONTROL\ManageImage\ManageImage\bin\Debug\ManageImage.pdb
+D:\Work\PM LED\LED FULL CONTROL\ManageImage\ManageImage\obj\Debug\ManageImage.csprojResolveAssemblyReference.cache
+D:\Work\PM LED\LED FULL CONTROL\ManageImage\ManageImage\obj\Debug\ManageImage.FormEdit.resources
+D:\Work\PM LED\LED FULL CONTROL\ManageImage\ManageImage\obj\Debug\LedFullControl.frmMAP.resources
+D:\Work\PM LED\LED FULL CONTROL\ManageImage\ManageImage\obj\Debug\ManageImage.FrmProgressbar.resources
+D:\Work\PM LED\LED FULL CONTROL\ManageImage\ManageImage\obj\Debug\ManageImage.Main.resources
+D:\Work\PM LED\LED FULL CONTROL\ManageImage\ManageImage\obj\Debug\ManageImage.Properties.Resources.resources
+D:\Work\PM LED\LED FULL CONTROL\ManageImage\ManageImage\obj\Debug\ManageImage.csproj.GenerateResource.Cache
+C:\Users\NGUYEN DAI\Documents\Visual Studio 2015\Projects\ManageImage\ManageImage\bin\Debug\ManageImage.exe.config
+C:\Users\NGUYEN DAI\Documents\Visual Studio 2015\Projects\ManageImage\ManageImage\bin\Debug\ManageImage.exe
+C:\Users\NGUYEN DAI\Documents\Visual Studio 2015\Projects\ManageImage\ManageImage\bin\Debug\ManageImage.pdb
+C:\Users\NGUYEN DAI\Documents\Visual Studio 2015\Projects\ManageImage\ManageImage\bin\Debug\netDxf.dll
+C:\Users\NGUYEN DAI\Documents\Visual Studio 2015\Projects\ManageImage\ManageImage\obj\Debug\ManageImage.FormEdit.resources
+C:\Users\NGUYEN DAI\Documents\Visual Studio 2015\Projects\ManageImage\ManageImage\obj\Debug\LedFullControl.frmMAP.resources
+C:\Users\NGUYEN DAI\Documents\Visual Studio 2015\Projects\ManageImage\ManageImage\obj\Debug\ManageImage.FrmProgressbar.resources
+C:\Users\NGUYEN DAI\Documents\Visual Studio 2015\Projects\ManageImage\ManageImage\obj\Debug\ManageImage.Main.resources
+C:\Users\NGUYEN DAI\Documents\Visual Studio 2015\Projects\ManageImage\ManageImage\obj\Debug\ManageImage.Properties.Resources.resources
+C:\Users\NGUYEN DAI\Documents\Visual Studio 2015\Projects\ManageImage\ManageImage\obj\Debug\ManageImage.csproj.GenerateResource.Cache
+C:\Users\NGUYEN DAI\Documents\Visual Studio 2015\Projects\ManageImage\ManageImage\obj\Debug\ManageImage.exe
+C:\Users\NGUYEN DAI\Documents\Visual Studio 2015\Projects\ManageImage\ManageImage\obj\Debug\ManageImage.pdb
+C:\Users\NGUYEN DAI\Documents\Visual Studio 2015\Projects\ManageImage\ManageImage\obj\Debug\ManageImage.csprojResolveAssemblyReference.cache
+D:\Dai\ManageImage_2\ManageImage\ManageImage\bin\Debug\ManageImage.exe.config
+D:\Dai\ManageImage_2\ManageImage\ManageImage\obj\Debug\ManageImage.exe
+D:\Dai\ManageImage_2\ManageImage\ManageImage\obj\Debug\ManageImage.pdb
+D:\Dai\ManageImage_2\ManageImage\ManageImage\bin\Debug\ManageImage.exe
+D:\Dai\ManageImage_2\ManageImage\ManageImage\bin\Debug\ManageImage.pdb
+D:\Dai\ManageImage_2\ManageImage\ManageImage\bin\Debug\netDxf.dll
+D:\Dai\ManageImage_2\ManageImage\ManageImage\obj\Debug\ManageImage.csprojResolveAssemblyReference.cache
+D:\Dai\ManageImage_2\ManageImage\ManageImage\obj\Debug\ManageImage.FormEdit.resources
+D:\Dai\ManageImage_2\ManageImage\ManageImage\obj\Debug\LedFullControl.frmMAP.resources
+D:\Dai\ManageImage_2\ManageImage\ManageImage\obj\Debug\ManageImage.FrmProgressbar.resources
+D:\Dai\ManageImage_2\ManageImage\ManageImage\obj\Debug\ManageImage.Main.resources
+D:\Dai\ManageImage_2\ManageImage\ManageImage\obj\Debug\ManageImage.Properties.Resources.resources
+D:\Dai\ManageImage_2\ManageImage\ManageImage\obj\Debug\ManageImage.csproj.GenerateResource.Cache
